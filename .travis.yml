@@ -1,0 +1,8 @@
+language: cpp
+compiler:
+- g++11
+os:
+- linux
+before_script:
+- cmake
+script: make
