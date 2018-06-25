@@ -1,6 +1,6 @@
 language: cpp
 compiler:
-- g++11
+- g++
 os:
 - linux
 before_script:
